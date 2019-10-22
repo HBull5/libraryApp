@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+#heading {
+    font-size: 40px;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 15px;
+}
+
+#submit {
+    width: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.output {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding-bottom: 15px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+td {
+    text-align: center;
+    width: 33%;
+}
